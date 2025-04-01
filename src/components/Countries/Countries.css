@@ -12,3 +12,11 @@
     background-color: grey;
     color: black;
 }
+
+.flag-container{
+    width: 100px;
+    display: grid;
+    gap: 15px;
+    margin-bottom: 50px;
+    grid-template-columns: auto auto auto;
+}
